@@ -69,5 +69,5 @@ pkg install crunch
 
 clear
 
-
-crunch 4 7 qwertyuiopasdfghjklzxcvbnm1234567890 > test.txt
+echo " espere algunos minutos esto puede tardar" 
+crunch 4 7 qwertyuiopas12345678@#$90 > test.txt
