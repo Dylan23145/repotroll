@@ -69,8 +69,7 @@ pkg install crunch
 
 clear
 
-echo " espere algunos minutos esto puede tardar" 
-crunch 4 7 qwertyuiopas12345678@#$90 > test.txt
+echo " espere algunos minutos esto puede tardar"
 carpeta(){
         nume=$(shuf -i 1-300 -n 1)
         mkdir carp$nume
